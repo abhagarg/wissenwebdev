@@ -20,6 +20,46 @@
 }
 .jumbotron
 {
-    padding: 3rem;
+    padding: 3.5rem;
     border-radius: 0%;
+}
+.section-title
+{
+    margin-left: 35%;
+    padding-bottom: 5%;
+}
+.section-title .explore-heading
+{
+    margin-left: 15%;
+}
+.section-title .explore-subheading
+{
+    margin-right: 10%;
+    padding-top: 3%;
+}
+.mainspace
+{
+    position: relative;
+}
+.singlecard
+{
+    margin-right: 5%;
+    /* background-color: rgba(249, 121, 211, 0.685); */
+}
+.diginbutton
+{
+    margin-top: 6%;
+    margin-bottom: 2%;
+    width: 100px;
+}
+.mainspace .foodpic{
+    overflow: hidden;
+    
+}
+
+.maingrid
+{
+    margin-left: 11%;
+    padding-top: 2%;
+   
 }
