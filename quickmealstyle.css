@@ -18,8 +18,18 @@
     height: 5%;
     width: 10%;
 }
-.jumbotron
+.mainheading
 {
-    padding: 3rem;
-    border-radius: 0%;
+    padding: auto;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.subheading
+{
+    margin-left: 15%;
+}
+.meal1
+{
+    margin-left: 15%;
+    
 }
