@@ -63,3 +63,39 @@
     padding-top: 2%;
    
 }
+footer{
+    background-color: black;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+}
+.column1
+{
+    font-size: small;
+    line-height: 8px;
+    color: #aeadad;
+}
+.column2
+{
+    color: #aeadad;
+}
+.footerlink{
+    color: #aeadad;
+}
+.menuheading
+{
+    padding-top: 8%;
+    padding-left: 5%;
+}
+.explorelist
+{
+    list-style-type: none;
+}
+.icons
+{
+    margin-left: 33%;
+    margin-top: 2%;
+}
+.icon
+{
+    padding: 15px;
+}
