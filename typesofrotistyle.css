@@ -69,3 +69,17 @@ footer{
 {
     padding: 15px;
 }
+.roti1_wrapper
+{
+    width: 100%;
+    height: auto;
+    background-image: url(photos/roti1.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+}
+.roti1_wrapper .carousel-item{
+
+ min-height: 500px;
+ height: 100%;   
+}

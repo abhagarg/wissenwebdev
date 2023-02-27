@@ -18,6 +18,9 @@
     height: 5%;
     width: 10%;
 }
+body{
+    overflow-x: hidden;
+}
 .jumbotron
 {
     padding: 2.5rem;

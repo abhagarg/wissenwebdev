@@ -18,10 +18,21 @@
     height: 5%;
     width: 10%;
 }
+body{
+    overflow-x: hidden;
+    background-color: rgba(56, 81, 112, 0.868);
+}
+    
 .jumbotron
 {
     padding: 3.5rem;
     border-radius: 0%;
+    background-color: white;
+}
+.bigcardcontainer{
+background-color: #692629;
+padding-top: 3%;
+padding-bottom: 5%;
 }
 .section-title
 {
@@ -31,6 +42,7 @@
 .section-title .explore-heading
 {
     margin-left: 15%;
+    padding-top: 5%;
 }
 .section-title .explore-subheading
 {
@@ -75,7 +87,7 @@
 {
     margin-left: 11%;
     padding-top: 2%;
-   
+   /* background-color: rgba(56, 81, 112, 0.868); */
 }
 footer{
     background-color: black;
