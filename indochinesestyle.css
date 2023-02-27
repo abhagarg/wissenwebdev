@@ -1,0 +1,121 @@
+.c-item 
+{
+    height: 550px;
+    /* width: fit-content;
+    object-position: center;
+    /* background-size: cover; */
+    /* object-position: top; */
+    /* object-fit: contain; */ 
+}
+.c-img
+{
+    height: 100%;
+    object-fit: cover;
+}
+
+.logo
+{
+    height: 5%;
+    width: 10%;
+}
+.jumbotron
+{
+    padding: 2.5rem;
+    border-radius: 0%;
+}
+.section-title
+{
+    /* margin-left: 15%; */
+    padding-bottom: 5px;
+}
+/* .section-title .explore-heading
+{
+    margin-right: 5%;
+} */
+.section-title .explore-subheading
+{
+    margin-right: 5%;
+    /* padding-top: 3%; */
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.gallery
+{
+    background-color: rgba(56, 81, 112, 0.868);
+    padding: 80px 0;
+}
+.gallery img{
+    background-color: white;
+    padding: 15px;
+    width: 100%;
+    box-shadow: 0 0 15px rgba(0,0,0,0.3);
+}
+.section-subscribe
+{
+    background-color:#F2C290;
+    padding:35px;
+    margin-right:8%;
+    margin-left:12%;
+}
+.indochinesecards
+{
+    background-color: #8FB3D8;
+    padding: 10px;
+}
+hr{
+    background-color: white;
+    /* max-width: 600px; */
+    border-width: 0;
+}
+hr.s1{
+    height: 5px;
+    border-top:2px solid black;
+    border-bottom: 2px solid black;
+}
+footer{
+    background-color: black;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+}
+.column1
+{
+    font-size: small;
+    line-height: 8px;
+    color: #aeadad;
+}
+.column2
+{
+    color: #aeadad;
+}
+.footerlink{
+    color: #aeadad;
+}
+.menuheading
+{
+    padding-top: 8%;
+    padding-left: 5%;
+}
+.explorelist
+{
+    list-style-type: none;
+}
+.icons
+{
+    margin-left: 33%;
+    margin-top: 2%;
+}
+.icon
+{
+    padding: 15px;
+}
+.bigcard
+{
+    overflow: hidden;
+}
+.bigcard:hover img{
+    transform: scale(1.1);
+    transition: all ease 500ms;
+   
+}
